@@ -1,7 +1,7 @@
 <cashnet>result=0&
 lname=azlname&
 fname=azfname&
-custcode=az1226&
+custcode=az1227&
 custgroup=S&
 email=natarajan.natesan@transactcampus.com&
 itemcnt=2&
@@ -10,5 +10,5 @@ balance=18177.57&
 itemterm=TERM2022&
 itemcode2=OPENITEM1&
 balance2=277.25&
-itemterm2=TERM2025
+itemterm2=TERM202576
 </cashnet>
