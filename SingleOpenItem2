@@ -8,7 +8,7 @@ itemcnt=1&
 itemcode=TUIT&
 balance=177.7&
 itemterm=TERM_2023
-itemcode=OPENITEM1&
-balance=177.7&
-itemterm=TERM_2024
+itemcode2=OPENITEM1&
+balance2=177.7&
+itemterm2=TERM_2024
 </cashnet>
